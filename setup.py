@@ -11,7 +11,7 @@ OPTIONS = {
         "CFBundleIdentifier": "com.grokmacconnector.app",
         "CFBundleShortVersionString": "0.1.0",
         "CFBundleVersion": "10",
-        "LSUIElement": True,
+        "LSUIElement": False,
         "NSHighResolutionCapable": True,
     },
 }
